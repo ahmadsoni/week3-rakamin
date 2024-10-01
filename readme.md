@@ -20,9 +20,17 @@ Proyek ini adalah aplikasi web sederhana yang terdiri dari form registrasi dan t
 - TypeScript
 
 ## Cara Menjalankan Aplikasi
-
+     ```bash
+     npm run build
+     npm run start
+     ```
 1. **Clone repositori ini ke mesin lokal Anda:**
 
    ```bash
-   git clone https://github.com/username/repo-name.git
-   cd repo-name
+   git clone https://github.com/ahmadsoni/week3-rakamin.git
+    ```
+
+### Output
+![Deskripsi output 1](/images/output1.png)
+![Deskripsi output 2](/images/output2.png)
+![Deskripsi output 3](/images/output3.png)
